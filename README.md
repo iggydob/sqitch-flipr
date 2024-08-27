@@ -1,0 +1,1 @@
+This project created a SQLite-based application using Sqitch for version control and deployment automation. A VCS was integrated to facilitate collaborative development and ensure changes were applied in the correct order. The project involved creating migration files, applying them to the database, and managing the project using a VCS.
