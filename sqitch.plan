@@ -9,3 +9,5 @@ changes_pass [users appschema] 2024-08-29T12:13:06Z postgres <valchanov.biz@gmai
 @v1.0.0-dev1 2024-08-29T13:07:42Z postgres <valchanov.biz@gmail.com> # Tag v1.0.0-dev1.
 
 flips [appschema users] 2024-08-29T13:26:49Z postgres <valchanov.biz@gmail.com> # Adds table for storing flips.
+insert_flips [appschema users flips] 2024-08-29T13:46:28Z postgres <valchanov.biz@gmail.com> # Insert flip.
+delete_flips [appschema users flips] 2024-08-29T13:46:44Z postgres <valchanov.biz@gmail.com> # Delete flip.
